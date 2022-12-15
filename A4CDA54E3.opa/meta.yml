@@ -1,0 +1,20 @@
+id: A4CDA54E3
+title: Toh_325-The_Verses_of_Naga_King_Drum-v2
+type: translation
+pechas:
+- I2FA6C8C8
+- I6590FF86
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-072-025
+  eft-text-version: 1.1.2 2020
+  title: Toh_325-The_Verses_of_Naga_King_Drum-v2
+alignment_to_base:
+  I2FA6C8C8/E47D: A41D
+  I6590FF86/CC80: A41D
